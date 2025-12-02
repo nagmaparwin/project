@@ -1,0 +1,20 @@
+.screen{
+    font-size: 200px;
+    position: relative;
+    left: 700px;
+
+}
+.start{
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+    position: relative;
+    left: 600px;
+}
+.stop{
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+    position: relative;
+    left: 700px;
+}
